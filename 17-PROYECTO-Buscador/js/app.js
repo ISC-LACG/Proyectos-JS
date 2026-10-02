@@ -175,4 +175,3 @@ function filtrarColor(auto){
     return auto;
 }       
 
-//todo: video 147 apenas empieza a filtrar los autos por marca, año, precio, puertas, transmision y color 
